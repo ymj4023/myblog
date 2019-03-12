@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+#ÔöÉè
+.vscode/
+.idea/
+bin/
+/email_host_password.txt
+/secret_key.txt
